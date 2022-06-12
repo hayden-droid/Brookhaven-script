@@ -1,0 +1,2 @@
+# Brookhaven-script
+enjoy script
