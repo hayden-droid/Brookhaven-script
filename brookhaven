@@ -5,7 +5,7 @@
     local HomeSection = Home:NewSection("Home")
     
     HomeSection:NewLabel("Welcome, User!")
-    HomeSection:NewLabel("This script made by QWERTYT")
+    HomeSection:NewLabel("This script made by Memeitizer")
     HomeSection:NewLabel("version 1,7")
 
     local Player = Window:NewTab("Player")
@@ -60,7 +60,7 @@ Title.BackgroundColor3 = Color3.fromRGB(22, 22, 22)
 Title.BorderSizePixel = 0
 Title.Size = UDim2.new(0, 360, 0, 50)
 Title.Font = Enum.Font.SourceSans
-Title.Text = "QWERTYT's GUI"
+Title.Text = "Memeitizer's GUI"
 Title.TextColor3 = Color3.fromRGB(200, 0, 0)
 Title.TextScaled = true
 Title.TextSize = 14.000
